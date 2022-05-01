@@ -7,5 +7,5 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': 200,
-        'body': json.dumps('Hello from Lambda! modify Git Action!! by jay add IAM lambda access')
+        'body': json.dumps('Hello from Lambda! modify Git Action!! by jay add IAM lambda access change region')
     }
